@@ -1,0 +1,71 @@
+# .NET / Visual Studio
+
+# Build output
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Coverage tools
+coverage/
+coverage.cobertura.xml
+.coverage/
+.nyc_output/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# TFS
+$tf/
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Local environment
+.env
+.env.*
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+
